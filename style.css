@@ -5,12 +5,20 @@ h1{
 span{
     color: coral;
 }
-p{
+div{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     font: 100; 
 }
-    
+
+ .half{
+     width: 100%;
+     padding-left: 5%;
+ }
+ .half image{
+     width: 100%;
+ }
+
 h2{
     font-size: 30px;
 }
