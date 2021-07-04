@@ -10,6 +10,15 @@ div{
     font-size: 25px;
     font: 100; 
 }
+.half-talk{
+    text-decoration: none;
+    background-image: linear-gradient( red yellow);
+    padding: 10px 40px;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
 
  .half{
      width: 100%;
