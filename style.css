@@ -2,6 +2,13 @@ h1{
     color: black;
     font-size: 50px;
 }
+body{
+    margin: 0%;
+}
+.top-banner{
+    background-image: url(image.jpg/png\ lokta.png);
+    background-repeat: no-repeat;
+}
 span{
     color: coral;
 }
@@ -14,20 +21,7 @@ div{
     width: 300%;
     padding-top: 10%;
 }
-.half-talk{
-    text-decoration: none;
-    background-color: yellowgreen;
-    padding: 20%
-    background-image: linear-gradient(orange tomato);
-    padding: 10px 40px;
-    color: black;
-    font-weight: 700;
-    border-radius: 10px;
-
-
-}
-
- .half{
+.half{
      width: 100%;
      padding-left: 0%;
      margin-top: 5%;
@@ -35,10 +29,25 @@ div{
  }
 
 
+
 h2{
     font-size: 30px;
 }
+
 section{
     display: flex;
     padding-left: 60px;
+    padding-top: 60px;
+}
+
+
+.half-talk{
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    background-color: yellowgreen;
+    padding: 10px 40px;
+    border-radius: 10px;
+    padding: 20%
+    background-image linear-gradient(orange tomato);
 }
